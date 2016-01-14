@@ -1,8 +1,0 @@
-admin.vbpl.hochiminhcity.gov.vn
-envi-tisemiz.shtp.hochiminhcity.gov.vn
-medinet.hochiminhcity.gov.vn
-quantri.medinet.hochiminhcity.gov.vn
-shtp.hochiminhcity.gov.vn
-ubmttq.hochiminhcity.gov.vn
-vbpl.hochiminhcity.gov.vn
-vpub.hochiminhcity.gov.vn

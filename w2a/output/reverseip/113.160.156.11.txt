@@ -1,3 +1,0 @@
-dvc.langson.gov.vn
-ns2.langson.gov.vn
-smtpsec.langson.gov.vn

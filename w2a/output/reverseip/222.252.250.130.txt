@@ -1,6 +1,0 @@
-ns2.quangbinh.gov.vn
-smtp.quangbinh.gov.vn
-ttth.quangbinh.gov.vn
-ns2.quangbinh.gov.vn
-smtp.quangbinh.gov.vn
-ttth.quangbinh.gov.vn
