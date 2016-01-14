@@ -6521,3 +6521,73 @@ AttributeError: 'list' object has no attribute 'listip'
 [02/Jan/2013:13:18:38] ENGINE Bus EXITING
 [02/Jan/2013:13:18:38] ENGINE Bus EXITED
 [02/Jan/2013:13:18:38] ENGINE Waiting for child threads to terminate...
+[14/Jan/2016:19:13:23] ENGINE Listening for SIGHUP.
+[14/Jan/2016:19:13:23] ENGINE Listening for SIGTERM.
+[14/Jan/2016:19:13:23] ENGINE Listening for SIGUSR1.
+[14/Jan/2016:19:13:23] ENGINE Bus STARTING
+[14/Jan/2016:19:13:23] ENGINE Started monitor thread 'Autoreloader'.
+[14/Jan/2016:19:13:23] ENGINE Started monitor thread '_TimeoutMonitor'.
+[14/Jan/2016:19:13:24] ENGINE Serving on http://127.0.0.1:4444
+[14/Jan/2016:19:13:24] ENGINE Bus STARTED
+[14/Jan/2016:19:16:31] ENGINE Restarting because /home/m3/Desktop/web2attack/w2aweb changed.
+[14/Jan/2016:19:16:31] ENGINE Stopped thread 'Autoreloader'.
+[14/Jan/2016:19:16:31] ENGINE Bus STOPPING
+[14/Jan/2016:19:16:31] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 4444)) shut down
+[14/Jan/2016:19:16:31] ENGINE Stopped thread '_TimeoutMonitor'.
+[14/Jan/2016:19:16:31] ENGINE Bus STOPPED
+[14/Jan/2016:19:16:31] ENGINE Bus EXITING
+[14/Jan/2016:19:16:31] ENGINE Bus EXITED
+[14/Jan/2016:19:16:31] ENGINE Waiting for child threads to terminate...
+[14/Jan/2016:19:16:31] ENGINE Re-spawning ./w2aweb
+[14/Jan/2016:19:16:31] ENGINE Listening for SIGUSR1.
+[14/Jan/2016:19:16:31] ENGINE Listening for SIGTERM.
+[14/Jan/2016:19:16:31] ENGINE Listening for SIGHUP.
+[14/Jan/2016:19:16:31] ENGINE Bus STARTING
+[14/Jan/2016:19:16:31] ENGINE Started monitor thread 'Autoreloader'.
+[14/Jan/2016:19:16:31] ENGINE Started monitor thread '_TimeoutMonitor'.
+[14/Jan/2016:19:16:31] ENGINE Serving on http://127.0.0.1:4444
+[14/Jan/2016:19:16:31] ENGINE Bus STARTED
+[14/Jan/2016:19:16:39] ENGINE Keyboard Interrupt: shutting down bus
+[14/Jan/2016:19:16:39] ENGINE Bus STOPPING
+[14/Jan/2016:19:16:44] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 4444)) shut down
+[14/Jan/2016:19:16:44] ENGINE Stopped thread 'Autoreloader'.
+[14/Jan/2016:19:16:44] ENGINE Stopped thread '_TimeoutMonitor'.
+[14/Jan/2016:19:16:44] ENGINE Bus STOPPED
+[14/Jan/2016:19:16:44] ENGINE Bus EXITING
+[14/Jan/2016:19:16:44] ENGINE Bus EXITED
+[14/Jan/2016:19:16:44] ENGINE Waiting for child threads to terminate...
+[14/Jan/2016:19:16:46] ENGINE Listening for SIGHUP.
+[14/Jan/2016:19:16:46] ENGINE Listening for SIGTERM.
+[14/Jan/2016:19:16:46] ENGINE Listening for SIGUSR1.
+[14/Jan/2016:19:16:46] ENGINE Bus STARTING
+[14/Jan/2016:19:16:46] ENGINE Started monitor thread '_TimeoutMonitor'.
+[14/Jan/2016:19:16:46] ENGINE Started monitor thread 'Autoreloader'.
+[14/Jan/2016:19:16:46] ENGINE Serving on http://127.0.0.1:4444
+[14/Jan/2016:19:16:46] ENGINE Bus STARTED
+[14/Jan/2016:19:16:55] ENGINE Restarting because /home/m3/Desktop/web2attack/w2aweb changed.
+[14/Jan/2016:19:16:55] ENGINE Stopped thread 'Autoreloader'.
+[14/Jan/2016:19:16:55] ENGINE Bus STOPPING
+[14/Jan/2016:19:17:00] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 4444)) shut down
+[14/Jan/2016:19:17:00] ENGINE Stopped thread '_TimeoutMonitor'.
+[14/Jan/2016:19:17:00] ENGINE Bus STOPPED
+[14/Jan/2016:19:17:00] ENGINE Bus EXITING
+[14/Jan/2016:19:17:00] ENGINE Bus EXITED
+[14/Jan/2016:19:17:00] ENGINE Waiting for child threads to terminate...
+[14/Jan/2016:19:17:00] ENGINE Re-spawning ./w2aweb
+[14/Jan/2016:19:17:00] ENGINE Listening for SIGUSR1.
+[14/Jan/2016:19:17:00] ENGINE Listening for SIGTERM.
+[14/Jan/2016:19:17:00] ENGINE Listening for SIGHUP.
+[14/Jan/2016:19:17:00] ENGINE Bus STARTING
+[14/Jan/2016:19:17:00] ENGINE Started monitor thread '_TimeoutMonitor'.
+[14/Jan/2016:19:17:00] ENGINE Started monitor thread 'Autoreloader'.
+[14/Jan/2016:19:17:00] ENGINE Serving on http://127.0.0.1:4444
+[14/Jan/2016:19:17:00] ENGINE Bus STARTED
+[14/Jan/2016:19:19:34] ENGINE Keyboard Interrupt: shutting down bus
+[14/Jan/2016:19:19:34] ENGINE Bus STOPPING
+[14/Jan/2016:19:19:34] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('127.0.0.1', 4444)) shut down
+[14/Jan/2016:19:19:34] ENGINE Stopped thread '_TimeoutMonitor'.
+[14/Jan/2016:19:19:34] ENGINE Stopped thread 'Autoreloader'.
+[14/Jan/2016:19:19:34] ENGINE Bus STOPPED
+[14/Jan/2016:19:19:34] ENGINE Bus EXITING
+[14/Jan/2016:19:19:34] ENGINE Bus EXITED
+[14/Jan/2016:19:19:34] ENGINE Waiting for child threads to terminate...
