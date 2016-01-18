@@ -19,7 +19,7 @@ class Module(Templates):
 		self.options.addString('FILE', 'domain/ip', default = '/etc/passwd')
 
 	def run(self, frmwk, args):
-		url = 'http://wdh.thanhtra.quangnam.gov.vn/vhcs2/index.php'
+		url = 'http://www.google.com/'
 		self.victim		= HTTP(url)
 		len = 1
 		# join	= ''
